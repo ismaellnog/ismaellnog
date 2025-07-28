@@ -51,13 +51,13 @@
 ### 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ismaellnog&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight" alt="Contribuições" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismaellnog&theme=tokyonight" alt="Contribuições" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaellnog&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
 </p>
 
 ---
@@ -65,13 +65,13 @@
 ### 🌐 Conecte-se comigo
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/ismaellnog" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEU-EMAIL@gmail.com">
+  <a href="mailto:ismaell.nog@gmail.com">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://SEU-PORTFOLIO.com" target="_blank">
+  <a href="https://inogdev.com" target="_blank">
     <img src="https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </p>
