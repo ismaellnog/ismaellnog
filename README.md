@@ -1,30 +1,35 @@
 <h1 align="center">👋 Olá, sou Inog</h1>
 <p align="center">
-  Desenvolvedor Full Stack apaixonado por tecnologia, com experiência profissional em diversas linguagens e frameworks.
+  Desenvolvedor Full Stack focado em soluções web e mobile com tecnologias modernas.
 </p>
 
 ---
 
 ### 🚀 Sobre mim
 
-💻 Desenvolvedor com sólida experiência em aplicações web utilizando:
+💻 Desenvolvedor com experiência profissional no desenvolvimento de **aplicações web** e **mobile**, atuando em projetos do frontend ao backend.
 
-- ⚙️ **Back-end**: Node.js | PHP (Laravel)
+🧩 Stack principal:
+
+- 🧠 **Back-end**: Node.js | PHP (Laravel)
 - 🎨 **Front-end**: HTML5 | CSS3 | JavaScript (ES6+)
-- 🧠 Práticas modernas de desenvolvimento: Git | APIs REST | MVC | Testes
+- 📱 **Mobile/Web Apps**: Flutter
+- 🔗 Integrações via APIs RESTful e arquitetura MVC
 
-🔭 Atualmente focado em projetos escaláveis, arquitetura limpa e boas práticas de código.
+🔭 Atualmente envolvido em projetos híbridos que combinam web e mobile em uma mesma base de código com Flutter e backend em Node.js.
 
-📚 Sempre aprendendo e compartilhando conhecimento com a comunidade.
+💡 Focado em boas práticas, performance, clean code e acessibilidade.
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" alt="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" alt="Dart" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
@@ -32,16 +37,27 @@
 
 ---
 
+### 📱 Web & Mobile Apps
+
+✅ Experiência com:
+
+- Flutter para aplicações híbridas (Android, iOS, Web)
+- Consumo de APIs RESTful
+- Integração com Firebase e bancos SQL/NoSQL
+- Deploy e publicação em lojas (Play Store / App Store) e servidores web
+
+---
+
 ### 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=radical" alt="Contribuições" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight" alt="Contribuições" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
 </p>
 
 ---
@@ -64,8 +80,8 @@
 
 ### 💡 Frase que me guia
 
-> “Primeiro faça funcionar, depois faça bonito, depois faça rápido.” — Kent Beck
+> “Código é poesia. Aplicações são arte. Usuários são a inspiração.” — Desconhecido
 
 ---
 
-⭐️ **Vamos colaborar?** Fique à vontade para abrir uma issue ou me chamar para conversar.
+⭐️ **Aberto a parcerias, freelas e colaborações!** Vamos criar algo incrível juntos?
