@@ -26,27 +26,40 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> &nbsp;Sobre mim
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding illustration" />
+<table>
+<tr>
+<td width="55%" valign="top">
 
 ```ts
 const inog = {
-  papel:      "Full Stack Dev & Fundador",
-  empresa:    "GID WEB — SaaS de Gestão de SST",
-  atuando_em: ["Arquitetura", "Backend", "Frontend", "DevOps", "Produto"],
+  papel:   "Full Stack & Fundador",
+  empresa: "GID WEB — SaaS de SST",
+  atuo_em: ["Arquitetura", "Backend",
+            "Frontend", "DevOps"],
 
   stack: {
-    backend:  ["Node.js", "Fastify", "PHP/Laravel"],
-    dados:    ["PostgreSQL", "Redis", "Firebase"],
-    frontend: ["JavaScript ES6+", "EJS", "HTML5", "CSS3"],
+    backend:  ["Node.js", "Fastify"],
+    dados:    ["PostgreSQL", "Redis"],
+    frontend: ["JS ES6+", "EJS", "CSS3"],
     mobile:   ["Flutter", "Dart"],
-    infra:    ["Hetzner", "Nginx", "Docker", "Cloudflare"],
-    extras:   ["Python", "OpenCV", "YOLO", "LLMs"]
+    infra:    ["Hetzner", "Nginx", "Docker"],
+    ia:       ["Python", "YOLO", "LLMs"]
   },
 
-  filosofia: "Clean code, performance e acessibilidade — nessa ordem.",
-  cafe:      Infinity
+  lema: "Clean code, performance,
+         acessibilidade — nessa ordem.",
+  cafe: Infinity
 };
 ```
+
+</td>
+<td width="45%" valign="top">
+
+<img width="100%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding illustration" />
+
+</td>
+</tr>
+</table>
 
 🏗️ &nbsp;Construo **produtos completos**, não só features: do modelo de dados ao deploy, do contrato ao onboarding do cliente.
 
@@ -55,8 +68,6 @@ const inog = {
 🤖 &nbsp;Explorando **IA aplicada**: cascatas de fallback entre provedores, agentes especialistas e visão computacional com YOLO + pose estimation.
 
 ⚡ &nbsp;Também construo ferramentas de dev — como um CLI multi-agente que **prova causalmente** que uma mudança de código fez o teste passar.
-
-<br clear="right"/>
 
 ---
 
